@@ -14,22 +14,23 @@ Proyek ini adalah implementasi CRUD sederhana yang menggabungkan Vue 3 untuk bag
 3. Update (Perbarui): Edit data yang ada untuk memperbaharui informasi.
 4. Delete (Hapus): Hapus data yang tidak diperlukan.
 
-## Video Penjelasan
+## Screenshot
 
-Ambil Data API :
+Data API :
+![API](https://github.com/NCholisM/projectvuevel/assets/57277402/89633232-0d24-4ffd-8730-228539b083e7)
 
-Database :
-
-Filter Data :
+Menampilkan Data :
+![INDEX](https://github.com/NCholisM/projectvuevel/assets/57277402/b69588ed-8417-4077-ae0b-e66f4def5e85)
 
 Tambah Data :
+![TAMBAH](https://github.com/NCholisM/projectvuevel/assets/57277402/2199ade5-34ca-41f6-8d44-4010de9bd608)
 
-Edit dan Hapus Data :
+Edit Data :
+![EDIT](https://github.com/NCholisM/projectvuevel/assets/57277402/9e929f4c-99e5-4173-8bdf-bbd791ccd5ec)
 
 ## Apa Saja Yang Digunakan
 
-- Postman
+- Laravel 9
 - XAMPP (Database MySQL)
-- CodeIgniter 3
+- Vue 3
 - Bootstrap 4
-- DataTables
