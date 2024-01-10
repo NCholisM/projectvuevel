@@ -1,6 +1,5 @@
 # Project Vue + Laravel Sederhana
 
-Deskripsi
 Proyek ini adalah implementasi CRUD sederhana yang menggabungkan Vue 3 untuk bagian frontend dan Laravel 9 sebagai backend. CRUD (Create, Read, Update, Delete) adalah operasi dasar dalam pengembangan perangkat lunak, dan proyek ini menyediakan contoh aplikasi yang memanfaatkan kedua teknologi tersebut.
 
 ## Teknologi Utama
